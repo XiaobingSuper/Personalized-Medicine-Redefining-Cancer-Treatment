@@ -1,2 +1,1 @@
-# Personalized-Medicine-Redefining-Cancer-Treatment
-kaggle competition for cancer Prediction
+# This is work with Hao Cheng.
